@@ -34,6 +34,15 @@
 
 ---
 
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="nvanha's GitHub Stats" src="https://github-readme-stats-codestackr.vercel.app/api?username=nvanha&show_icons=true&hide_border=true" />
+
+</details>
+
+---
+
 [website]: https://nvanha.github.io/myweb
 [instagram]: https://www.instagram.com/_haa_nguyen
 [facebook]: https://www.facebook.com/nvh1120
