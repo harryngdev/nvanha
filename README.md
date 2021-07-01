@@ -1,6 +1,6 @@
 ### Hi there, I'm `Ha` - [nvanha][website] 👋
 
-## I'm a UI/UX Designer, Full-Stack Developer!!!
+## I'm a UI/UX Designer, Web Developer!!!
 
 - 🌱 I’m currently learning Can Tho University
 - 🤔 I’m looking for help with other content creators
@@ -37,7 +37,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="nvanha's GitHub Stats" src="https://github-readme-stats-codestackr.vercel.app/api?username=nvanha&show_icons=true&hide_border=true" />
+  <img align="left" alt="nvanha's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=nvanha&&show_icons=true"/>
 
 </details>
 
