@@ -57,6 +57,7 @@
 
 <img alt="nvanha's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=nvanha&theme=tokyonight&show_icons=true" />
 <img alt="nvanha's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nvanha&theme=tokyonight&layout=compact&langs_count=5" />
+<img alt="nvanha's GitHub Stats" src="https://activity-graph.herokuapp.com/graph?username=nvanha&theme=material-palenight" />
 
 [website]: https://nvanha.github.io/myweb
 [instagram]: https://www.instagram.com/_haa_nguyen
