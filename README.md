@@ -16,7 +16,6 @@
 
 ### 🧏‍♂️ &nbsp; Connect with me:
 
-[![Edge](https://img.shields.io/badge/MyWebsite-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)][website]
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)][facebook]
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)][instagram]
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)][tiktok]
